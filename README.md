@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tedstacked
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning dbt and any related data stuff
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning dbt, vibe coding and agentic development workflow
 - 💞️ I’m looking to collaborate on dbt Projects
 
 <!---
